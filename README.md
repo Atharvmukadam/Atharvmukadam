@@ -193,9 +193,5 @@ Docker · Kubernetes · AWS Cloud · MLOps · LangChain · Retrieval-Augmented G
 
 > **"Building technology that creates real-world impact."**
 
-<p align="center">
-  <a href="https://linkedin.com/in/atharvmukadam">LinkedIn</a> ·
-  <a href="mailto:atharva2003mukadam@gmail.com">Email</a>
-</p>
 
 <p align="center"><i>💡 Building technology that creates real-world impact.</i></p>
