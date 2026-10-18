@@ -181,12 +181,6 @@ Interactive ESG (Environmental, Social & Governance) dashboard with KPI cards, a
 
 ---
 
-## 📊 GitHub Stats
-
-![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharvmukadam&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvmukadam&layout=compact&hide_border=true)
-
----
 
 ## 🎯 2026 Goals
 
